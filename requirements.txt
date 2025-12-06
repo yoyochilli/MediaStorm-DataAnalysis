@@ -1,0 +1,7 @@
+requests
+pandas
+mysql-connector-python
+sqlalchemy
+matplotlib
+seaborn
+fake-useragent
