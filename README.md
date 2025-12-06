@@ -18,7 +18,8 @@
 1. 克隆项目到本地:
    ```bash
    git clone https://github.com/yoyochilli/MediaStorm-DataAnalysis.git
-   安装依赖：
+1）安装依赖：
+   ```bash
    pip install -r requirements.txt
 2. 配置数据库与密钥:
    复制 config.example.py 为 config.py
