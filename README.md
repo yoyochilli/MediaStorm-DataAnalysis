@@ -21,6 +21,7 @@
 1）安装依赖：
    ```bash
    pip install -r requirements.txt
+
 2. 配置数据库与密钥:
    复制 config.example.py 为 config.py
    填入你的 MySQL 密码及 Bilibili SESSDATA
