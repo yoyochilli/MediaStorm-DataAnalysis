@@ -15,20 +15,12 @@
 3.  **时长策略**: **10-20分钟** 的中长视频表现最稳，且 40分钟+ 的长视频完播粘性极高。
 
 ## 🚀 如何运行 (How to run)
-1. 克隆项目到本地:
-   ```bash
-   git clone https://github.com/yoyochilli/MediaStorm-DataAnalysis.git
-1）安装依赖：
-   ```bash
-   pip install -r requirements.txt
 
-2. 配置数据库与密钥:
-   复制 config.example.py 为 config.py
-   填入你的 MySQL 密码及 Bilibili SESSDATA
-   依次运行脚本:
-   python scraper.py (抓取数据)
-   python cleaner.py (清洗入库)
-   python analyzer.py (生成图表)
+### 1. 克隆项目
+首先将项目下载到本地并进入文件夹：
+```bash
+git clone https://github.com/yoyochilli/MediaStorm-DataAnalysis.git
+cd MediaStorm-DataAnalysis
 
 
    
